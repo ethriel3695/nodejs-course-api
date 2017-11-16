@@ -2,8 +2,9 @@
   "name": "course-api",
   "version": "1.0.0",
   "description": "A node.js Rest api",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "startnmon": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/ethriel3695/nodejs-course-api/issues"
   },
-  "homepage": "https://github.com/ethriel3695/nodejs-course-api#readme"
+  "homepage": "https://github.com/ethriel3695/nodejs-course-api#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "nodemon": "^1.12.1",
+    "open": "0.0.5"
+  }
 }
