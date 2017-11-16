@@ -21,10 +21,12 @@
   },
   "homepage": "https://github.com/ethriel3695/nodejs-course-api#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "gulp": "^3.9.1",
     "gulp-nodemon": "^2.2.1",
     "nodemon": "^1.12.1",
-    "open": "0.0.5"
+    "open": "0.0.5",
+    "pg": "^7.4.0"
   }
 }
