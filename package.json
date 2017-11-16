@@ -1,0 +1,22 @@
+{
+  "name": "course-api",
+  "version": "1.0.0",
+  "description": "A node.js Rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethriel3695/nodejs-course-api.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Reuben Ellis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ethriel3695/nodejs-course-api/issues"
+  },
+  "homepage": "https://github.com/ethriel3695/nodejs-course-api#readme"
+}
